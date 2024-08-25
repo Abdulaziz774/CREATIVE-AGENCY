@@ -1,0 +1,95 @@
+@media only screen and (max-width: 1185px) {
+  .services {
+    .container {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+  .portfolio_cards {
+    flex-direction: column;
+    gap: 40px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .about_content {
+    flex-direction: column;
+    gap: 30px;
+  }
+}
+
+@media only screen and (max-width: 880px) {
+  .contact {
+    .container {
+      flex-direction: column;
+      gap: 40px;
+    }
+  }
+}
+
+@media only screen and (max-width: 824px) {
+  .clients_cards {
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .title {
+    font-size: 40px;
+  }
+
+  .header_nav {
+    .nav_items {
+      display: none;
+    }
+
+    .nav_button .btn {
+      display: none;
+    }
+
+    .fa-solid.fa-bars {
+      display: block;
+    }
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .footer_header {
+    justify-content: center;
+  }
+
+  .footer_items {
+    display: none;
+  }
+
+  .footer_icons {
+    flex-wrap: wrap;
+  }
+
+  .footer_copyright {
+    max-width: 300px;
+  }
+
+  .about_buttons {
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .title {
+    font-size: 20px;
+  }
+
+  .contact_red_dots {
+    right: -30px;
+  }
+
+  .footer_copyright {
+    max-width: 100px;
+  }
+
+  .banner_red_dot_1 {
+    left: 100px;
+  }
+}

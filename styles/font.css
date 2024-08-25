@@ -1,0 +1,49 @@
+/* Nunito */
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts/Nunito/Nunito-ExtraBold.ttf");
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts/Nunito/Nunito-Bold.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts/Nunito/Nunito-Medium.ttf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Nunito;
+  src: url("../fonts/Nunito/Nunito-Regular.ttf");
+  font-weight: 400;
+}
+
+/* Quicksand */
+@font-face {
+  font-family: Quicksand;
+  src: url("../fonts/Quicksand/Quicksand-Bold.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Quicksand;
+  src: url("../fonts/Quicksand/Quicksand-Medium.ttf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Quicksand;
+  src: url("../fonts/Quicksand/Quicksand-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Quicksand;
+  src: url("../fonts/Quicksand/Quicksand-Light.ttf");
+  font-weight: 300;
+}
